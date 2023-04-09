@@ -13,5 +13,6 @@
 	},
 	"author": "Simon Ciavarro",
 	"date": "08/04/2023",
-	"description": "My first nodejs project featuring freeCodeCamp"
+	"description": "My first nodejs project featuring freeCodeCamp",
+	"keywords": ["Simon", "First Project", "vscode", "freeCodeCamp", "npm", "nodejs"]
 }
