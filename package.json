@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Simon Ciavarro",
-	"date": "08/04/2023"
+	"date": "08/04/2023",
+	"description": "My first nodejs project featuring freeCodeCamp"
 }
